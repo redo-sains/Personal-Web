@@ -1,4 +1,3 @@
-import React,{useState} from 'react'
 import { Bar, BarPercentage, Percentage, SkillTitle } from './'
 
 const SkillBar = (props) => {

@@ -1,7 +1,5 @@
 import {NavButton} from './headerStyle/ButtonStyle'
 
-const functNull = () => 0;
-
 const  Nav_button = (props) =>{
     return(
         <li className="list-unstyled d-flex justify-content-center align-items-center h-100 w-100">

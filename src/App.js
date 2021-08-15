@@ -8,7 +8,7 @@ import Footer from "./component/footer/footer";
 import Navbar from './component/header/navbar';
 import "./component/FontawesomeIcons";
 import {BrowserRouter as Routers, Route, Switch } from "react-router-dom";
-import { matchFromAbsolutePaths } from "tsconfig-paths";
+
 
 
 class App extends React.Component {
