@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e92ed511.chunk.css",
+    "main.js": "/static/js/main.196476d5.chunk.js",
+    "main.js.map": "/static/js/main.196476d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef6139bd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef6139bd.js.map",
+    "static/css/2.983f79de.chunk.css": "/static/css/2.983f79de.chunk.css",
+    "static/js/2.c50908a2.chunk.js": "/static/js/2.c50908a2.chunk.js",
+    "static/js/2.c50908a2.chunk.js.map": "/static/js/2.c50908a2.chunk.js.map",
+    "static/js/3.7e16d4bc.chunk.js": "/static/js/3.7e16d4bc.chunk.js",
+    "static/js/3.7e16d4bc.chunk.js.map": "/static/js/3.7e16d4bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.e92ed511.chunk.css.map": "/static/css/main.e92ed511.chunk.css.map",
+    "static/js/2.c50908a2.chunk.js.LICENSE.txt": "/static/js/2.c50908a2.chunk.js.LICENSE.txt",
+    "static/media/Bali.cee216ec.jpg": "/static/media/Bali.cee216ec.jpg",
+    "static/media/Skill.b96bc6ff.png": "/static/media/Skill.b96bc6ff.png",
+    "static/media/background-contact.95e55ac2.jpg": "/static/media/background-contact.95e55ac2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef6139bd.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.c50908a2.chunk.js",
+    "static/css/main.e92ed511.chunk.css",
+    "static/js/main.196476d5.chunk.js"
+  ]
+}
